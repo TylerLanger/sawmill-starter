@@ -1,6 +1,4 @@
 ---
-pages:
-- _index.md
 hide_body: true
 is_partial: false
 fields:
@@ -18,3 +16,5 @@ fields:
 - type: textarea
   name: hello
   label: hello
+pages:
+- _index.md
